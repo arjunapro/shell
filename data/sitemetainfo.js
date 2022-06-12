@@ -18,7 +18,7 @@ const siteMetaInfo = {
   email: "asternov@icloud.com",
   github: "https://github.com/asternov",
   githubUser: "asternov",
-  linkedin: "www.linkedin.com/in/arjunapro",
+  linkedin: "https://linkedin.com/arjunapro",
 };
 
 export default siteMetaInfo;
