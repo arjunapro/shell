@@ -16,19 +16,20 @@
           <Css class="h-10 w-10 rounded-sm drop-shadow-sm"></Css>
         </li> -->
         <li class="flex items-center">
-          <Bootstrap class="h-10 w-10"></Bootstrap>
+          <Javascript class="h-10 w-10 mr-1"></Javascript> 7+ years
+        </li>
+
+        <li class="flex items-center">
+          <Vuejs class="h-10 w-10 mr-1"></Vuejs> 5+ years
         </li>
         <li class="flex items-center">
-          <TailwindCss class="h-10 w-10"></TailwindCss>
+          <Bootstrap class="h-10 w-10 mr-1"></Bootstrap> 4+ years
         </li>
         <li class="flex items-center">
-          <Javascript class="h-10 w-10"></Javascript>
+          <TailwindCss class="h-10 w-10 mr-1"></TailwindCss> 2+ years
         </li>
         <li class="flex items-center">
-          <Vuejs class="h-10 w-10"></Vuejs>
-        </li>
-        <li class="flex items-center">
-          <Nuxt class="h-10 w-10"></Nuxt>
+          <Nuxt class="h-10 w-10 mr-1"></Nuxt> 2+ years
         </li>
       </ul>
     </div>
@@ -40,7 +41,8 @@
       </h2>
       <ul class="mb-6 flex flex-wrap gap-4">
         <li class="flex items-center">
-          <Laravel class="h-10 w-10"></Laravel>
+          <Laravel class="h-10 w-10 mr-1"></Laravel>
+          5+ years
         </li>
         <li class="flex items-center">
           <Node class="h-10 w-10"></Node>
