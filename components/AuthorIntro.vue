@@ -10,18 +10,7 @@
     </p>
 
     <ul>
-      <li>my experience - is working with very professional teams and famous brands like Burda, AkzoNobel etc.</li>
-    </ul>
-    <br>
-
-    <h5 class="">I am familiar with wide stack of technologies:</h5>
-    <ul class="list-disc">
-    <li>php - more than 7 years, laravel framework more than 5 years</li>
-    <li>frontend-frameworks - angular, reactjs, vue js - more than 5 years</li>
-    <li>css frameworks - tailwind css, bootstrap - more than 5 years</li>
-    <li>also familiar with docker, mysql, caching, kubernates, DevOps etc</li>
-    <li>version control systems - git, bitbucket, gihub</li>
-    <li>task trackers - redmine, jira, trello</li>
+      <li>My experience - is working with very professional teams and famous brands like Burda, AkzoNobel etc.</li>
     </ul>
   </div>
 </template>

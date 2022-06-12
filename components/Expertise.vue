@@ -8,28 +8,42 @@
       </h2>
 
       <ul class="flex flex-wrap gap-4 items-center">
-        <!-- <li class="flex items-center">
-          <Html class="h-10 w-10 rounded-sm drop-shadow-sm"></Html>
+        <li class="flex items-center">
+          <Html class="h-10 w-10 rounded-sm drop-shadow-sm mr-1"></Html>
+          Html<br>
+          7+ years
         </li>
 
         <li class="flex items-center">
-          <Css class="h-10 w-10 rounded-sm drop-shadow-sm"></Css>
-        </li> -->
+          <Css class="h-10 w-10 rounded-sm drop-shadow-sm mr-1"></Css>
+          Css<br>
+          7+ years
+        </li>
         <li class="flex items-center">
-          <Javascript class="h-10 w-10 mr-1"></Javascript> 7+ years
+          <Javascript class="h-10 w-10 mr-1"></Javascript>
+          Javascript<br>
+          7+ years
         </li>
 
         <li class="flex items-center">
-          <Vuejs class="h-10 w-10 mr-1"></Vuejs> 5+ years
+          <Vuejs class="h-10 w-10 mr-1"></Vuejs>
+          Vue.js<br>
+          5+ years
         </li>
         <li class="flex items-center">
-          <Bootstrap class="h-10 w-10 mr-1"></Bootstrap> 4+ years
+          <Bootstrap class="h-10 w-10 mr-1"></Bootstrap>
+          Bootstrap<br>
+          4+ years
         </li>
         <li class="flex items-center">
-          <TailwindCss class="h-10 w-10 mr-1"></TailwindCss> 2+ years
+          <Nuxt class="h-10 w-10 mr-1"></Nuxt>
+          Nuxt.js<br>
+          2+ years
         </li>
         <li class="flex items-center">
-          <Nuxt class="h-10 w-10 mr-1"></Nuxt> 2+ years
+          <TailwindCss class="h-10 w-10 mr-1"></TailwindCss>
+          Tailwind Css<br>
+          2+ years
         </li>
       </ul>
     </div>
@@ -41,11 +55,19 @@
       </h2>
       <ul class="mb-6 flex flex-wrap gap-4">
         <li class="flex items-center">
-          <Laravel class="h-10 w-10 mr-1"></Laravel>
-          5+ years
+          <PHP class="h-10 w-10 mr-1"></PHP>
+          PHP<br>
+          7+ years
         </li>
         <li class="flex items-center">
-          <Node class="h-10 w-10"></Node>
+          <Mysql class="h-10 w-10 mr-1"></Mysql>
+          Mysql<br>
+          7+ years
+        </li>
+        <li class="flex items-center">
+          <Laravel class="h-10 w-10 mr-1"></Laravel>
+          Laravel<br>
+          5+ years
         </li>
       </ul>
     </div>
@@ -61,7 +83,10 @@ import TailwindCss from "../assets/devicon/tailwindcss.svg?inline";
 import Nuxt from "../assets/devicon/nuxt.svg?inline";
 import Bootstrap from "../assets/devicon/bootstrap.svg?inline";
 import Laravel from "../assets/devicon/laravel.svg?inline";
+import PHP from "../assets/devicon/php.svg?inline";
+import Mysql from "../assets/devicon/mysql.svg?inline";
 import Node from "../assets/devicon/node.svg?inline";
+
 export default {
   components: {
     Javascript,
@@ -73,6 +98,8 @@ export default {
     Nuxt,
     Laravel,
     Node,
+    PHP,
+    Mysql,
   },
 };
 </script>
