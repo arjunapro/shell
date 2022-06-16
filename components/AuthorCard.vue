@@ -38,6 +38,10 @@
         <Github />
         <a :href="siteMetadata.github"> {{ siteMetadata.githubUser }}</a>
       </div>
+      <div class="my-2 text-gray-600 flex dark:text-blue-200">
+        <Folder />
+        <a class="ml-1" href="./cv.pdf" download="CV Andrew Ternovskiy PHP dev">download CV</a>
+      </div>
     </div>
   </div>
 </template>
@@ -46,9 +50,10 @@
 import Mail from "../assets/icon/mail.svg?inline";
 import Glob from "../assets/icon/glob.svg?inline";
 import Github from "../assets/icon/github_new.svg?inline";
+import Folder from "../assets/icon/folder-small.svg?inline";
 import siteMetaInfo from "@/data/sitemetainfo";
 export default {
-  components: { Mail, Glob, Github },
+  components: { Mail, Glob, Github, Folder },
   data: () => {
     return {
       siteMetadata: siteMetaInfo,

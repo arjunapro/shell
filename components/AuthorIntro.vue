@@ -6,11 +6,8 @@
       👋 Welcome!
     </h2>
     <p class="mt-8 mb-4 dark:bg-gray-800 dark:text-blue-200 text-justify">
-      PHP developer with more than 7 years of experience
+      My name is Andrew. I am a PHP developer with more than 7 years of experience<br>
+      I have worked with professional teams and famous brands like Burda, AkzoNobel etc.
     </p>
-
-    <ul>
-      <li>I have worked with very professional teams and famous brands like Burda, AkzoNobel etc.</li>
-    </ul>
   </div>
 </template>
