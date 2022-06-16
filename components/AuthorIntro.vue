@@ -7,7 +7,8 @@
     </h2>
     <p class="mt-8 mb-4 dark:bg-gray-800 dark:text-blue-200 text-justify">
       My name is Andrew. I am a PHP developer with more than 7 years of experience<br>
-      I have worked with professional teams and famous brands like Burda, AkzoNobel etc.
+      I have worked with professional teams and famous brands like Burda, AkzoNobel etc.<br>
+      I will be glad to help you in your beggings
     </p>
   </div>
 </template>
