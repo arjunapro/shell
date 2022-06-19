@@ -4,10 +4,10 @@
       <h1
         class="mb-4 text-8xl sm:text-4xl tracking-tight text-slate-800 font-extrabold dark:text-slate-200"
       >
-        Blog
+        My Code
       </h1>
       <p class="text-lg text-slate-700 dark:text-slate-400">
-        articles, news, projects description
+        examples of how I can be useful to your company
       </p>
     </header>
     <div class="space-y-16 mx-auto max-w-7xl">
@@ -45,7 +45,7 @@ export default {
     };
   },
   head: {
-    title: "Arjuna | Blog",
+    title: "Arjuna | Code Examples",
     meta: [
       { charset: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
